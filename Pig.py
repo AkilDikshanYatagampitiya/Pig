@@ -1,4 +1,4 @@
-import random
+d fgd dgf import random
 
 def roll():
     min_value=1
