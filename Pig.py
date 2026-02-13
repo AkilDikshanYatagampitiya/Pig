@@ -8,7 +8,7 @@ def roll():
     return roll
 def players():
     num_players=int(input("Enter the number of players :"))
-    player_names=[]
+    player_names=[]nfnfn
 
     for i in range(num_players):
         name=input(f"Enter the name of player{i+1} :")
