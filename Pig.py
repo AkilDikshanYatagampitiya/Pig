@@ -14,7 +14,7 @@ def players():
         name=input(f"Enter the name of player{i+1} :")
         player_names.append(name)
         
-    return player_names;
+    return player_names;dfgdsg
         
     
 print(players())
